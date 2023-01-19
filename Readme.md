@@ -9,3 +9,12 @@ Nowadays, around 20% of adults are suffering from mental illness. It affects a p
 * Serene does this by allowing users to log their mental state each day via journal entries and a weekly wellbeing questionnaire, with select data summarized by a weekly/daily graphical snapshot. Users can grant other users access to this snapshot for remote monitoring. 
 * This app plays a great role to reduce the stigma as in most of the communities, mental illness isn’t widely talked about.
   
+## Target audience:
+Although all demographics are welcomed to user Serene, it is initially targeted at therapists/social workers by providing a way to remotely track the mental health of the people under their duty of care.  
+
+## Tech Stack:
+1. **Front End Technologies:** React.JS, Bootstrap
+2. **Back End Technologies:** Express.JS, Node.JS
+3. **Database Technologies:** MongoDB, Mongoose
+4. **Testing:** JEST
+5. **Deployment:** Railway
