@@ -8,7 +8,16 @@ Nowadays, around 20% of adults are suffering from mental illness. It affects a p
 * It is beneficial for a person to manage low moods and triggering situations if he/she tracks his/her mood daily through this app.
 * Serene does this by allowing users to log their mental state each day via journal entries and a weekly wellbeing questionnaire, with select data summarized by a weekly/daily graphical snapshot. Users can grant other users access to this snapshot for remote monitoring. 
 * This app plays a great role to reduce the stigma as in most of the communities, mental illness isn’t widely talked about.
-  
+
+## Features/Functionality:   
++ A homepage includes a hero component and a Sign-in/Sign-up button for direct user auth access
++ Profile handler: greeting message, inspirational quote on reload
++ Ability for users to add short journal entries with accompanying ‘emotion’ tags
++ A simple mental wellbeing questionnaire – optionally answered weekly 
++ Ability for users to view a weekly summary, that displays emotions and questionnaire scores from the past week, plus a daily emotions % (pie chart)
++ Ability for users to grant access to their weekly summary to select users
+
+
 ## Target audience:
 Although all demographics are welcomed to user Serene, it is initially targeted at therapists/social workers by providing a way to remotely track the mental health of the people under their duty of care.  
 
