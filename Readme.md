@@ -31,3 +31,7 @@ Although all demographics are welcomed to user Serene, it is initially targeted 
 
 ## Data Flow Diagram
 ![data-flow](https://user-images.githubusercontent.com/105357829/213894108-2cb605c3-1e5a-4b00-ac46-0b56619519d6.jpg)
+
+## Application Architecture Diagram 
+![image1](https://user-images.githubusercontent.com/105357829/213894470-0634c0aa-f71d-4706-b334-778142d28a85.png)
+
