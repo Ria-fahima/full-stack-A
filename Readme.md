@@ -36,7 +36,7 @@ Although all demographics are welcomed to user Serene, it is initially targeted 
 ![image1](https://user-images.githubusercontent.com/105357829/213894470-0634c0aa-f71d-4706-b334-778142d28a85.png)
 
 ## Trello ScreenShots
-[Trello Link] (https://trello.com/b/MMurIsLO/mern-frontend-kanban)
+[Trello Link](https://trello.com/b/MMurIsLO/mern-frontend-kanban)
 
 ![image5](https://user-images.githubusercontent.com/105357829/213894657-884ff87a-1496-4c08-b32b-7352dbbc3a7a.png)
 ![image2](https://user-images.githubusercontent.com/105357829/213894659-c9436b7e-b687-4498-bf8b-c2b85364f3e4.png)
