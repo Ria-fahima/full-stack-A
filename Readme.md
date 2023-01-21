@@ -30,4 +30,4 @@ Although all demographics are welcomed to user Serene, it is initially targeted 
 5. **Deployment:** Railway
 
 ## Data Flow Diagram
-![Data Flow Diagram](./user docs/data-flow.jpg)
+![data-flow](https://user-images.githubusercontent.com/105357829/213894108-2cb605c3-1e5a-4b00-ac46-0b56619519d6.jpg)
