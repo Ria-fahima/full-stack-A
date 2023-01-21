@@ -35,3 +35,10 @@ Although all demographics are welcomed to user Serene, it is initially targeted 
 ## Application Architecture Diagram 
 ![image1](https://user-images.githubusercontent.com/105357829/213894470-0634c0aa-f71d-4706-b334-778142d28a85.png)
 
+## Trello ScreenShots
+[Trello Link] (https://trello.com/b/MMurIsLO/mern-frontend-kanban)
+
+![image5](https://user-images.githubusercontent.com/105357829/213894657-884ff87a-1496-4c08-b32b-7352dbbc3a7a.png)
+![image2](https://user-images.githubusercontent.com/105357829/213894659-c9436b7e-b687-4498-bf8b-c2b85364f3e4.png)
+![image4](https://user-images.githubusercontent.com/105357829/213894681-e5f3aae4-81bf-4e5e-8f90-0f978fc3b3fd.png)
+![image3](https://user-images.githubusercontent.com/105357829/213894685-d3e6d9ee-b080-4719-b770-a9735af11007.png)
