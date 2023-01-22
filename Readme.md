@@ -35,6 +35,29 @@ Although all demographics are welcomed to user Serene, it is initially targeted 
 ## Application Architecture Diagram 
 ![image1](https://user-images.githubusercontent.com/105357829/213894470-0634c0aa-f71d-4706-b334-778142d28a85.png)
 
+## User Stories:
++ **Homepage** 
+  1. User must be able to register and sign in to their profile
+  2. User should be given a summary of what the app does 
++ **Profile**
+  1. User should have constant access to navigation via a navbar
+  2. User should be able to see their username, welcome message and inspirational quote
++ **Journal [profile component child]**
+  1. User should be able to post a journal entry with text, an ‘emotion’ tag and timestamp at any time
+  2. User should be able to see a list of previous journal entries
+  3. User should be able to delete posts
++ **Calendar [profile component child]**
+  1. User should be able to see a summary of the past 30 days, that for each day shows (1) date (2) questionnaire score/colour (3) tags posted 
++ **Questionnaire [profile component child]**
+  1. Each sunday a user should have the opportunity to answer a 10 question questionnaire that gives them a score out of 10-50 
+  2. User should have this score stored with a timestamp in the db
+  3. User should be blocked for completing the questionnaire more than one time per week
++ **Grant Access [within profile/profile component child]**
+  1. User should be able to see a list of usernames that have given them access to view their calendar (trackers) 
+  2. Users should be able to search and add usernames to a list of people who can view THEIR calendar (populate ‘tracking’ field in db collection)
++ **Settings**
+  1. User must be able to delete their account
+  
 ## Trello ScreenShots
 [Trello Link](https://trello.com/b/MMurIsLO/mern-frontend-kanban)
 
